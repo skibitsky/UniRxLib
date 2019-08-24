@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Asynchronous" t="Include">
+        <e p="WebRequestExtensions.cs" t="Include" />
+        <e p="WebRequestExtensions.cs.meta" t="Include" />
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Disposables" t="Include">
+        <e p="BooleanDisposable.cs" t="Include" />
+        <e p="BooleanDisposable.cs.meta" t="Include" />
+        <e p="CancellationDisposable.cs" t="Include" />
+        <e p="CancellationDisposable.cs.meta" t="Include" />
+        <e p="CompositeDisposable.cs" t="Include" />
+        <e p="CompositeDisposable.cs.meta" t="Include" />
+        <e p="DictionaryDisposable.cs" t="Include" />
+        <e p="DictionaryDisposable.cs.meta" t="Include" />
+        <e p="Disposable.cs" t="Include" />
+        <e p="Disposable.cs.meta" t="Include" />
+        <e p="DisposableExtensions.cs" t="Include" />
+        <e p="DisposableExtensions.cs.meta" t="Include" />
+        <e p="ICancelable.cs" t="Include" />
+        <e p="ICancelable.cs.meta" t="Include" />
+        <e p="MultipleAssignmentDisposable.cs" t="Include" />
+        <e p="MultipleAssignmentDisposable.cs.meta" t="Include" />
+        <e p="RefCountDisposable.cs" t="Include" />
+        <e p="RefCountDisposable.cs.meta" t="Include" />
+        <e p="ScheduledDisposable.cs" t="Include" />
+        <e p="ScheduledDisposable.cs.meta" t="Include" />
+        <e p="SerialDisposable.cs" t="Include" />
+        <e p="SerialDisposable.cs.meta" t="Include" />
+        <e p="SingleAssignmentDisposable.cs" t="Include" />
+        <e p="SingleAssignmentDisposable.cs.meta" t="Include" />
+        <e p="StableCompositeDisposable.cs" t="Include" />
+        <e p="StableCompositeDisposable.cs.meta" t="Include" />
+      </e>
+      <e p="EventPattern.cs" t="Include" />
+      <e p="InternalUtil" t="Include">
+        <e p="AscynLock.cs" t="Include" />
+        <e p="AscynLock.cs.meta" t="Include" />
+        <e p="CancellableTaskCompletionSource.cs" t="Include" />
+        <e p="CancellableTaskCompletionSource.cs.meta" t="Include" />
+        <e p="ExceptionExtensions.cs" t="Include" />
+        <e p="ExceptionExtensions.cs.meta" t="Include" />
+        <e p="ImmutableList.cs" t="Include" />
+        <e p="ImmutableList.cs.meta" t="Include" />
+        <e p="ListObserver.cs" t="Include" />
+        <e p="ListObserver.cs.meta" t="Include" />
+        <e p="MicroCoroutine.cs" t="Include" />
+        <e p="MicroCoroutine.cs.meta" t="Include" />
+        <e p="PriorityQueue.cs" t="Include" />
+        <e p="PriorityQueue.cs.meta" t="Include" />
+        <e p="PromiseHelper.cs" t="Include" />
+        <e p="PromiseHelper.cs.meta" t="Include" />
+        <e p="ScheduledItem.cs" t="Include" />
+        <e p="ScheduledItem.cs.meta" t="Include" />
+        <e p="ThreadSafeQueueWorker.cs" t="Include" />
+        <e p="ThreadSafeQueueWorker.cs.meta" t="Include" />
+        <e p="UnityEqualityComparer.cs" t="Include" />
+        <e p="UnityEqualityComparer.cs.meta" t="Include" />
+      </e>
+      <e p="Notification.cs" t="Include" />
+      <e p="Notifiers" t="Include">
+        <e p="BooleanNotifier.cs" t="Include" />
+        <e p="BooleanNotifier.cs.meta" t="Include" />
+        <e p="CountNotifier.cs" t="Include" />
+        <e p="CountNotifier.cs.meta" t="Include" />
+        <e p="MessageBroker.cs" t="Include" />
+        <e p="MessageBroker.cs.meta" t="Include" />
+        <e p="ScheduledNotifier.cs" t="Include" />
+        <e p="ScheduledNotifier.cs.meta" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Observable.Aggregate.cs" t="Include" />
+      <e p="Observable.Awaiter.cs" t="Include" />
+      <e p="Observable.Binding.cs" t="Include" />
+      <e p="Observable.Blocking.cs" t="Include" />
+      <e p="Observable.Concatenate.cs" t="Include" />
+      <e p="Observable.Concurrency.cs" t="Include" />
+      <e p="Observable.Conversions.cs" t="Include" />
+      <e p="Observable.Creation.cs" t="Include" />
+      <e p="Observable.cs" t="Include" />
+      <e p="Observable.ErrorHandling.cs" t="Include" />
+      <e p="Observable.Events.cs" t="Include" />
+      <e p="Observable.FromAsync.cs" t="Include" />
+      <e p="Observable.Joins.cs" t="Include" />
+      <e p="Observable.Paging.cs" t="Include" />
+      <e p="Observable.Time.cs" t="Include" />
+      <e p="Observer.cs" t="Include" />
+      <e p="Operators" t="Include">
+        <e p="Aggregate.cs" t="Include" />
+        <e p="Aggregate.cs.meta" t="Include" />
+        <e p="Amb.cs" t="Include" />
+        <e p="Amb.cs.meta" t="Include" />
+        <e p="AsObservable.cs" t="Include" />
+        <e p="AsObservable.cs.meta" t="Include" />
+        <e p="AsSingleUnitObservable.cs" t="Include" />
+        <e p="AsSingleUnitObservable.cs.meta" t="Include" />
+        <e p="AsUnitObservable.cs" t="Include" />
+        <e p="AsUnitObservable.cs.meta" t="Include" />
+        <e p="Buffer.cs" t="Include" />
+        <e p="Buffer.cs.meta" t="Include" />
+        <e p="Cast.cs" t="Include" />
+        <e p="Cast.cs.meta" t="Include" />
+        <e p="Catch.cs" t="Include" />
+        <e p="Catch.cs.meta" t="Include" />
+        <e p="CombineLatest.cs" t="Include" />
+        <e p="CombineLatest.cs.meta" t="Include" />
+        <e p="Concat.cs" t="Include" />
+        <e p="Concat.cs.meta" t="Include" />
+        <e p="ContinueWith.cs" t="Include" />
+        <e p="ContinueWith.cs.meta" t="Include" />
+        <e p="Create.cs" t="Include" />
+        <e p="Create.cs.meta" t="Include" />
+        <e p="DefaultIfEmpty.cs" t="Include" />
+        <e p="DefaultIfEmpty.cs.meta" t="Include" />
+        <e p="Defer.cs" t="Include" />
+        <e p="Defer.cs.meta" t="Include" />
+        <e p="Delay.cs" t="Include" />
+        <e p="Delay.cs.meta" t="Include" />
+        <e p="DelaySubscription.cs" t="Include" />
+        <e p="DelaySubscription.cs.meta" t="Include" />
+        <e p="Dematerialize.cs" t="Include" />
+        <e p="Dematerialize.cs.meta" t="Include" />
+        <e p="Distinct.cs" t="Include" />
+        <e p="Distinct.cs.meta" t="Include" />
+        <e p="DistinctUntilChanged.cs" t="Include" />
+        <e p="DistinctUntilChanged.cs.meta" t="Include" />
+        <e p="Do.cs" t="Include" />
+        <e p="Do.cs.meta" t="Include" />
+        <e p="Empty.cs" t="Include" />
+        <e p="Empty.cs.meta" t="Include" />
+        <e p="Finally.cs" t="Include" />
+        <e p="Finally.cs.meta" t="Include" />
+        <e p="First.cs" t="Include" />
+        <e p="First.cs.meta" t="Include" />
+        <e p="ForEachAsync.cs" t="Include" />
+        <e p="ForEachAsync.cs.meta" t="Include" />
+        <e p="FromEvent.cs" t="Include" />
+        <e p="FromEvent.cs.meta" t="Include" />
+        <e p="GroupBy.cs" t="Include" />
+        <e p="GroupBy.cs.meta" t="Include" />
+        <e p="IgnoreElements.cs" t="Include" />
+        <e p="IgnoreElements.cs.meta" t="Include" />
+        <e p="Last.cs" t="Include" />
+        <e p="Last.cs.meta" t="Include" />
+        <e p="Materialize.cs" t="Include" />
+        <e p="Materialize.cs.meta" t="Include" />
+        <e p="Merge.cs" t="Include" />
+        <e p="Merge.cs.meta" t="Include" />
+        <e p="Never.cs" t="Include" />
+        <e p="Never.cs.meta" t="Include" />
+        <e p="ObserveOn.cs" t="Include" />
+        <e p="ObserveOn.cs.meta" t="Include" />
+        <e p="OfType.cs" t="Include" />
+        <e p="OfType.cs.meta" t="Include" />
+        <e p="OperatorObservableBase.cs" t="Include" />
+        <e p="OperatorObservableBase.cs.meta" t="Include" />
+        <e p="OperatorObserverBase.cs" t="Include" />
+        <e p="OperatorObserverBase.cs.meta" t="Include" />
+        <e p="PairWise.cs" t="Include" />
+        <e p="PairWise.cs.meta" t="Include" />
+        <e p="Range.cs" t="Include" />
+        <e p="Range.cs.meta" t="Include" />
+        <e p="RefCount.cs" t="Include" />
+        <e p="RefCount.cs.meta" t="Include" />
+        <e p="Repeat.cs" t="Include" />
+        <e p="Repeat.cs.meta" t="Include" />
+        <e p="RepeatSafe.cs" t="Include" />
+        <e p="RepeatSafe.cs.meta" t="Include" />
+        <e p="Return.cs" t="Include" />
+        <e p="Return.cs.meta" t="Include" />
+        <e p="Sample.cs" t="Include" />
+        <e p="Sample.cs.meta" t="Include" />
+        <e p="Scan.cs" t="Include" />
+        <e p="Scan.cs.meta" t="Include" />
+        <e p="Select.cs" t="Include" />
+        <e p="Select.cs.meta" t="Include" />
+        <e p="SelectMany.cs" t="Include" />
+        <e p="SelectMany.cs.meta" t="Include" />
+        <e p="SelectWhere.cs" t="Include" />
+        <e p="SelectWhere.cs.meta" t="Include" />
+        <e p="Single.cs" t="Include" />
+        <e p="Single.cs.meta" t="Include" />
+        <e p="Skip.cs" t="Include" />
+        <e p="Skip.cs.meta" t="Include" />
+        <e p="SkipUntil.cs" t="Include" />
+        <e p="SkipUntil.cs.meta" t="Include" />
+        <e p="SkipWhile.cs" t="Include" />
+        <e p="SkipWhile.cs.meta" t="Include" />
+        <e p="Start.cs" t="Include" />
+        <e p="Start.cs.meta" t="Include" />
+        <e p="StartWith.cs" t="Include" />
+        <e p="StartWith.cs.meta" t="Include" />
+        <e p="SubscribeOn.cs" t="Include" />
+        <e p="SubscribeOn.cs.meta" t="Include" />
+        <e p="Switch.cs" t="Include" />
+        <e p="Switch.cs.meta" t="Include" />
+        <e p="Synchronize.cs" t="Include" />
+        <e p="Synchronize.cs.meta" t="Include" />
+        <e p="SynchronizedObserver.cs" t="Include" />
+        <e p="SynchronizedObserver.cs.meta" t="Include" />
+        <e p="Take.cs" t="Include" />
+        <e p="Take.cs.meta" t="Include" />
+        <e p="TakeLast.cs" t="Include" />
+        <e p="TakeLast.cs.meta" t="Include" />
+        <e p="TakeUntil.cs" t="Include" />
+        <e p="TakeUntil.cs.meta" t="Include" />
+        <e p="TakeWhile.cs" t="Include" />
+        <e p="TakeWhile.cs.meta" t="Include" />
+        <e p="Throttle.cs" t="Include" />
+        <e p="Throttle.cs.meta" t="Include" />
+        <e p="ThrottleFirst.cs" t="Include" />
+        <e p="ThrottleFirst.cs.meta" t="Include" />
+        <e p="Throw.cs" t="Include" />
+        <e p="Throw.cs.meta" t="Include" />
+        <e p="TimeInterval.cs" t="Include" />
+        <e p="TimeInterval.cs.meta" t="Include" />
+        <e p="Timeout.cs" t="Include" />
+        <e p="Timeout.cs.meta" t="Include" />
+        <e p="Timer.cs" t="Include" />
+        <e p="Timer.cs.meta" t="Include" />
+        <e p="Timestamp.cs" t="Include" />
+        <e p="Timestamp.cs.meta" t="Include" />
+        <e p="ToArray.cs" t="Include" />
+        <e p="ToArray.cs.meta" t="Include" />
+        <e p="ToList.cs" t="Include" />
+        <e p="ToList.cs.meta" t="Include" />
+        <e p="ToObservable.cs" t="Include" />
+        <e p="ToObservable.cs.meta" t="Include" />
+        <e p="Wait.cs" t="Include" />
+        <e p="Wait.cs.meta" t="Include" />
+        <e p="WhenAll.cs" t="Include" />
+        <e p="WhenAll.cs.meta" t="Include" />
+        <e p="Where.cs" t="Include" />
+        <e p="Where.cs.meta" t="Include" />
+        <e p="WhereSelect.cs" t="Include" />
+        <e p="WhereSelect.cs.meta" t="Include" />
+        <e p="WithLatestFrom.cs" t="Include" />
+        <e p="WithLatestFrom.cs.meta" t="Include" />
+        <e p="Zip.cs" t="Include" />
+        <e p="Zip.cs.meta" t="Include" />
+        <e p="ZipLatest.cs" t="Include" />
+        <e p="ZipLatest.cs.meta" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive">
+        <e p="Unity3D.UnityEngine.2018.3.5.1" t="Include">
+          <e p=".signature.p7s" t="Include" />
+          <e p="lib" t="Include">
+            <e p="UnityEngine.dll" t="Include" />
+            <e p="UnityEngine.xml" t="Include" />
+          </e>
+          <e p="Unity3D.UnityEngine.2018.3.5.1.nupkg" t="Include" />
+        </e>
+        <e p="Unity3D.UnityEngine.UI.2018.3.5.1" t="Include">
+          <e p=".signature.p7s" t="Include" />
+          <e p="lib" t="Include">
+            <e p="UnityEngine.UI.dll" t="Include" />
+            <e p="UnityEngine.UI.xml" t="Include" />
+          </e>
+          <e p="Unity3D.UnityEngine.UI.2018.3.5.1.nupkg" t="Include" />
+        </e>
+      </e>
+      <e p="packages.config" t="Include" />
+      <e p="Pair.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="README.md" t="Include" />
+      <e p="Schedulers" t="Include">
+        <e p="CurrentThreadScheduler.cs" t="Include" />
+        <e p="CurrentThreadScheduler.cs.meta" t="Include" />
+        <e p="ImmediateScheduler.cs" t="Include" />
+        <e p="ImmediateScheduler.cs.meta" t="Include" />
+        <e p="IScheduler.cs" t="Include" />
+        <e p="IScheduler.cs.meta" t="Include" />
+        <e p="Scheduler.cs" t="Include" />
+        <e p="Scheduler.cs.meta" t="Include" />
+        <e p="ThreadPoolScheduler.cs" t="Include" />
+        <e p="ThreadPoolScheduler.cs.meta" t="Include" />
+      </e>
+      <e p="Subjects" t="Include">
+        <e p="AsyncSubject.cs" t="Include" />
+        <e p="AsyncSubject.cs.meta" t="Include" />
+        <e p="BehaviorSubject.cs" t="Include" />
+        <e p="BehaviorSubject.cs.meta" t="Include" />
+        <e p="ConnectableObservable.cs" t="Include" />
+        <e p="ConnectableObservable.cs.meta" t="Include" />
+        <e p="ISubject.cs" t="Include" />
+        <e p="ISubject.cs.meta" t="Include" />
+        <e p="ReplaySubject.cs" t="Include" />
+        <e p="ReplaySubject.cs.meta" t="Include" />
+        <e p="Subject.cs" t="Include" />
+        <e p="Subject.cs.meta" t="Include" />
+        <e p="SubjectExtensions.cs" t="Include" />
+        <e p="SubjectExtensions.cs.meta" t="Include" />
+      </e>
+      <e p="System" t="Include">
+        <e p="IObservable.cs" t="Include" />
+        <e p="IObservable.cs.meta" t="Include" />
+        <e p="IObserver.cs" t="Include" />
+        <e p="IObserver.cs.meta" t="Include" />
+        <e p="IOptimizedObservable.cs" t="Include" />
+        <e p="IOptimizedObservable.cs.meta" t="Include" />
+        <e p="IProgress.cs" t="Include" />
+        <e p="IProgress.cs.meta" t="Include" />
+        <e p="Tuple.cs" t="Include" />
+        <e p="Tuple.cs.meta" t="Include" />
+        <e p="Unit.cs" t="Include" />
+        <e p="Unit.cs.meta" t="Include" />
+      </e>
+      <e p="Tasks" t="Include">
+        <e p="TaskObservableExtensions.cs" t="Include" />
+        <e p="TaskObservableExtensions.cs.meta" t="Include" />
+      </e>
+      <e p="TimeInterval.cs" t="Include" />
+      <e p="Timestamped.cs" t="Include" />
+      <e p="UniRx.asmdef" t="Include" />
+      <e p="UniRxLib.csproj" t="IncludeRecursive" />
+      <e p="UniRxLib.sln" t="IncludeFlat" />
+      <e p="UnityEngineBridge" t="Include">
+        <e p="AsyncOperationExtensions.cs" t="Include" />
+        <e p="AsyncOperationExtensions.cs.meta" t="Include" />
+        <e p="CancellationToken.cs" t="Include" />
+        <e p="CancellationToken.cs.meta" t="Include" />
+        <e p="CoroutineAsyncBridge.cs" t="Include" />
+        <e p="CoroutineAsyncBridge.cs.meta" t="Include" />
+        <e p="Diagnostics" t="Include">
+          <e p="LogEntry.cs" t="Include" />
+          <e p="LogEntry.cs.meta" t="Include" />
+          <e p="LogEntryExtensions.cs" t="Include" />
+          <e p="LogEntryExtensions.cs.meta" t="Include" />
+          <e p="Logger.cs" t="Include" />
+          <e p="Logger.cs.meta" t="Include" />
+          <e p="ObservableDebugExtensions.cs" t="Include" />
+          <e p="ObservableDebugExtensions.cs.meta" t="Include" />
+          <e p="ObservableLogger.cs" t="Include" />
+          <e p="ObservableLogger.cs.meta" t="Include" />
+          <e p="UnityDebugSink.cs" t="Include" />
+          <e p="UnityDebugSink.cs.meta" t="Include" />
+        </e>
+        <e p="Diagnostics.meta" t="Include" />
+        <e p="FrameInterval.cs" t="Include" />
+        <e p="FrameInterval.cs.meta" t="Include" />
+        <e p="InspectableReactiveProperty.cs" t="Include" />
+        <e p="InspectableReactiveProperty.cs.meta" t="Include" />
+        <e p="InspectorDisplayDrawer.cs" t="Include" />
+        <e p="InspectorDisplayDrawer.cs.meta" t="Include" />
+        <e p="LifetimeDisposableExtensions.cs" t="Include" />
+        <e p="LifetimeDisposableExtensions.cs.meta" t="Include" />
+        <e p="MainThreadDispatcher.cs" t="Include" />
+        <e p="MainThreadDispatcher.cs.meta" t="Include" />
+        <e p="MainThreadScheduler.cs" t="Include" />
+        <e p="MainThreadScheduler.cs.meta" t="Include" />
+        <e p="Observable.Unity.cs" t="Include" />
+        <e p="Observable.Unity.cs.meta" t="Include" />
+        <e p="ObservableWWW.cs" t="Include" />
+        <e p="ObservableWWW.cs.meta" t="Include" />
+        <e p="ObserveExtensions.cs" t="Include" />
+        <e p="ObserveExtensions.cs.meta" t="Include" />
+        <e p="Operators" t="Include">
+          <e p="BatchFrame.cs" t="Include" />
+          <e p="BatchFrame.cs.meta" t="Include" />
+          <e p="DelayFrame.cs" t="Include" />
+          <e p="DelayFrame.cs.meta" t="Include" />
+          <e p="DelayFrameSubscription.cs" t="Include" />
+          <e p="DelayFrameSubscription.cs.meta" t="Include" />
+          <e p="FrameInterval.cs" t="Include" />
+          <e p="FrameInterval.cs.meta" t="Include" />
+          <e p="FrameTimeInterval.cs" t="Include" />
+          <e p="FrameTimeInterval.cs.meta" t="Include" />
+          <e p="FromCoroutine.cs" t="Include" />
+          <e p="FromCoroutine.cs.meta" t="Include" />
+          <e p="RepeatUntil.cs" t="Include" />
+          <e p="RepeatUntil.cs.meta" t="Include" />
+          <e p="SampleFrame.cs" t="Include" />
+          <e p="SampleFrame.cs.meta" t="Include" />
+          <e p="SubscribeOnMainThread.cs" t="Include" />
+          <e p="SubscribeOnMainThread.cs.meta" t="Include" />
+          <e p="ThrottleFirstFrame.cs" t="Include" />
+          <e p="ThrottleFirstFrame.cs.meta" t="Include" />
+          <e p="ThrottleFrame.cs" t="Include" />
+          <e p="ThrottleFrame.cs.meta" t="Include" />
+          <e p="TimeoutFrame.cs" t="Include" />
+          <e p="TimeoutFrame.cs.meta" t="Include" />
+        </e>
+        <e p="Operators.meta" t="Include" />
+        <e p="ReactiveCollection.cs" t="Include" />
+        <e p="ReactiveCollection.cs.meta" t="Include" />
+        <e p="ReactiveCommand.cs" t="Include" />
+        <e p="ReactiveCommand.cs.meta" t="Include" />
+        <e p="ReactiveDictionary.cs" t="Include" />
+        <e p="ReactiveDictionary.cs.meta" t="Include" />
+        <e p="ReactiveProperty.cs" t="Include" />
+        <e p="ReactiveProperty.cs.meta" t="Include" />
+        <e p="ScenePlaybackDetector.cs" t="Include" />
+        <e p="ScenePlaybackDetector.cs.meta" t="Include" />
+        <e p="Toolkit" t="Include">
+          <e p="ObjectPool.cs" t="Include" />
+          <e p="ObjectPool.cs.meta" t="Include" />
+        </e>
+        <e p="Toolkit.meta" t="Include" />
+        <e p="Triggers" t="Include">
+          <e p="ObservableAnimatorTrigger.cs" t="Include" />
+          <e p="ObservableAnimatorTrigger.cs.meta" t="Include" />
+          <e p="ObservableBeginDragTrigger.cs" t="Include" />
+          <e p="ObservableBeginDragTrigger.cs.meta" t="Include" />
+          <e p="ObservableCancelTrigger.cs" t="Include" />
+          <e p="ObservableCancelTrigger.cs.meta" t="Include" />
+          <e p="ObservableCanvasGroupChangedTrigger.cs" t="Include" />
+          <e p="ObservableCanvasGroupChangedTrigger.cs.meta" t="Include" />
+          <e p="ObservableCollision2DTrigger.cs" t="Include" />
+          <e p="ObservableCollision2DTrigger.cs.meta" t="Include" />
+          <e p="ObservableCollisionTrigger.cs" t="Include" />
+          <e p="ObservableCollisionTrigger.cs.meta" t="Include" />
+          <e p="ObservableDeselectTrigger.cs" t="Include" />
+          <e p="ObservableDeselectTrigger.cs.meta" t="Include" />
+          <e p="ObservableDestroyTrigger.cs" t="Include" />
+          <e p="ObservableDestroyTrigger.cs.meta" t="Include" />
+          <e p="ObservableDragTrigger.cs" t="Include" />
+          <e p="ObservableDragTrigger.cs.meta" t="Include" />
+          <e p="ObservableDropTrigger.cs" t="Include" />
+          <e p="ObservableDropTrigger.cs.meta" t="Include" />
+          <e p="ObservableEnableTrigger.cs" t="Include" />
+          <e p="ObservableEnableTrigger.cs.meta" t="Include" />
+          <e p="ObservableEndDragTrigger.cs" t="Include" />
+          <e p="ObservableEndDragTrigger.cs.meta" t="Include" />
+          <e p="ObservableEventTrigger.cs" t="Include" />
+          <e p="ObservableEventTrigger.cs.meta" t="Include" />
+          <e p="ObservableFixedUpdateTrigger.cs" t="Include" />
+          <e p="ObservableFixedUpdateTrigger.cs.meta" t="Include" />
+          <e p="ObservableInitializePotentialDragTrigger.cs" t="Include" />
+          <e p="ObservableInitializePotentialDragTrigger.cs.meta" t="Include" />
+          <e p="ObservableJointTrigger.cs" t="Include" />
+          <e p="ObservableJointTrigger.cs.meta" t="Include" />
+          <e p="ObservableLateUpdateTrigger.cs" t="Include" />
+          <e p="ObservableLateUpdateTrigger.cs.meta" t="Include" />
+          <e p="ObservableMouseTrigger.cs" t="Include" />
+          <e p="ObservableMouseTrigger.cs.meta" t="Include" />
+          <e p="ObservableMoveTrigger.cs" t="Include" />
+          <e p="ObservableMoveTrigger.cs.meta" t="Include" />
+          <e p="ObservableParticleTrigger.cs" t="Include" />
+          <e p="ObservableParticleTrigger.cs.meta" t="Include" />
+          <e p="ObservablePointerClickTrigger.cs" t="Include" />
+          <e p="ObservablePointerClickTrigger.cs.meta" t="Include" />
+          <e p="ObservablePointerDownTrigger.cs" t="Include" />
+          <e p="ObservablePointerDownTrigger.cs.meta" t="Include" />
+          <e p="ObservablePointerEnterTrigger.cs" t="Include" />
+          <e p="ObservablePointerEnterTrigger.cs.meta" t="Include" />
+          <e p="ObservablePointerExitTrigger.cs" t="Include" />
+          <e p="ObservablePointerExitTrigger.cs.meta" t="Include" />
+          <e p="ObservablePointerUpTrigger.cs" t="Include" />
+          <e p="ObservablePointerUpTrigger.cs.meta" t="Include" />
+          <e p="ObservableRectTransformTrigger.cs" t="Include" />
+          <e p="ObservableRectTransformTrigger.cs.meta" t="Include" />
+          <e p="ObservableScrollTrigger.cs" t="Include" />
+          <e p="ObservableScrollTrigger.cs.meta" t="Include" />
+          <e p="ObservableSelectTrigger.cs" t="Include" />
+          <e p="ObservableSelectTrigger.cs.meta" t="Include" />
+          <e p="ObservableStateMachineTrigger.cs" t="Include" />
+          <e p="ObservableStateMachineTrigger.cs.meta" t="Include" />
+          <e p="ObservableSubmitTrigger.cs" t="Include" />
+          <e p="ObservableSubmitTrigger.cs.meta" t="Include" />
+          <e p="ObservableTransformChangedTrigger.cs" t="Include" />
+          <e p="ObservableTransformChangedTrigger.cs.meta" t="Include" />
+          <e p="ObservableTrigger2DTrigger.cs" t="Include" />
+          <e p="ObservableTrigger2DTrigger.cs.meta" t="Include" />
+          <e p="ObservableTriggerBase.cs" t="Include" />
+          <e p="ObservableTriggerBase.cs.meta" t="Include" />
+          <e p="ObservableTriggerExtensions.Component.cs" t="Include" />
+          <e p="ObservableTriggerExtensions.Component.cs.meta" t="Include" />
+          <e p="ObservableTriggerExtensions.cs" t="Include" />
+          <e p="ObservableTriggerExtensions.cs.meta" t="Include" />
+          <e p="ObservableTriggerTrigger.cs" t="Include" />
+          <e p="ObservableTriggerTrigger.cs.meta" t="Include" />
+          <e p="ObservableUpdateSelectedTrigger.cs" t="Include" />
+          <e p="ObservableUpdateSelectedTrigger.cs.meta" t="Include" />
+          <e p="ObservableUpdateTrigger.cs" t="Include" />
+          <e p="ObservableUpdateTrigger.cs.meta" t="Include" />
+          <e p="ObservableVisibleTrigger.cs" t="Include" />
+          <e p="ObservableVisibleTrigger.cs.meta" t="Include" />
+        </e>
+        <e p="Triggers.meta" t="Include" />
+        <e p="UnityEventExtensions.cs" t="Include" />
+        <e p="UnityEventExtensions.cs.meta" t="Include" />
+        <e p="UnityGraphicExtensions.cs" t="Include" />
+        <e p="UnityGraphicExtensions.cs.meta" t="Include" />
+        <e p="UnityUIComponentExtensions.cs" t="Include" />
+        <e p="UnityUIComponentExtensions.cs.meta" t="Include" />
+        <e p="YieldInstructionCache.cs" t="Include" />
+        <e p="YieldInstructionCache.cs.meta" t="Include" />
+      </e>
+      <e p="UnityWinRTBridge" t="Include">
+        <e p="Thread.cs" t="Include" />
+        <e p="Thread.cs.meta" t="Include" />
+        <e p="ThreadPoolScheduler_UnityWinRT.cs" t="Include" />
+        <e p="ThreadPoolScheduler_UnityWinRT.cs.meta" t="Include" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_UniRxLib.-458050513.00" t="ExcludeRecursive" />
+  </component>
+</project>
